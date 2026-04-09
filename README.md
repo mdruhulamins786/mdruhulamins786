@@ -16,8 +16,7 @@ I’m Md Ruhul Amin, a passionate Web Developer working with modern frontend & b
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://facebook.com/mdruhulamins786)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://instagram.com/mdruhulaminss786)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ruhul-amin-084393155)  
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=Twitch&logoColor=white)](https://twitch.tv/md_amin_786)  
-[![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MdRuhulAmin)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/md_amin_786)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdruhulamins786@gmail.com)  
 
 ---
